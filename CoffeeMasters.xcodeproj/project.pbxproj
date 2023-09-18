@@ -12,6 +12,7 @@
 		D1B234DF2AB6271100A2DD73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1B234DE2AB6271100A2DD73 /* Assets.xcassets */; };
 		D1B234E22AB6271100A2DD73 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1B234E12AB6271100A2DD73 /* Preview Assets.xcassets */; };
 		D1B234E92AB7940B00A2DD73 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B234E82AB7940B00A2DD73 /* Offer.swift */; };
+		D1B234ED2AB8238F00A2DD73 /* OffersPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B234EC2AB8238F00A2DD73 /* OffersPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		D1B234DE2AB6271100A2DD73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1B234E12AB6271100A2DD73 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D1B234E82AB7940B00A2DD73 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
+		D1B234EC2AB8238F00A2DD73 /* OffersPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffersPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				D1B234DE2AB6271100A2DD73 /* Assets.xcassets */,
 				D1B234E02AB6271100A2DD73 /* Preview Content */,
 				D1B234E82AB7940B00A2DD73 /* Offer.swift */,
+				D1B234EC2AB8238F00A2DD73 /* OffersPage.swift */,
 			);
 			path = CoffeeMasters;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1B234E92AB7940B00A2DD73 /* Offer.swift in Sources */,
+				D1B234ED2AB8238F00A2DD73 /* OffersPage.swift in Sources */,
 				D1B234DD2AB6270D00A2DD73 /* ContentView.swift in Sources */,
 				D1B234DB2AB6270D00A2DD73 /* CoffeeMastersApp.swift in Sources */,
 			);

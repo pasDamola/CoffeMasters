@@ -9,11 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Greeting()
-            Greeting()
-            Greeting()
-        }
+        OffersPage()
        
     }
 }
